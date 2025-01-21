@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Tey!
+### 💻 Computer Engineering Student | ⚽ Football Enthusiast | 🏋️‍♂️ Health Training Advocate
 
-<!--
-**lesterlnds/lesterlnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about:
+- 🖥️ Building efficient and impactful software solutions
+- 🏗️ Engineering elegant systems with a problem-solving mindset
+- 📚 Constantly learning new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🔭 I’m currently studying at Technological Institute of the Philippines.
+- 🎓 Course Program Computer Engineering.
+- ⚡ Fun fact: I also love sports and fitness—football and strength training keep me balanced!
+
+---
+
+### 🎯 Current Goals
+- 🌱 Learning hardware and software.
+- 🌟 Contributing to open-source projects.
+- ✨ Building meaningful applications with real-world impact.
